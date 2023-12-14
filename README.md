@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/captura1.png)
+![Primera parte de la página web](imagenes/screenshot1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/Captura3.png)
+![Experiencia](imagenes/screenshot2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/Captura4.png)
+![Proyectos](imagenes/screenshot3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/Captura5.png)
+![Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/Captura6.png)
+![Contacto](imagenes/screenshot5.png)
 
 ## Tecnologías
 
